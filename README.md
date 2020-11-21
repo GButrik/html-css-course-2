@@ -1,1 +1,1 @@
-# html-css-course-2
+Main branch for HTML5 & CSS3 learning
