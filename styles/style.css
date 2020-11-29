@@ -354,6 +354,27 @@ p {
   margin-left: 3px;
 }
 
+.fa-twitter, .fa-vk, .fa-google-plus, .fa-facebook {
+  color: #FFFFFF;
+  text-shadow: 1px 1px 0 #333;
+}
+
+.fa-twitter:hover {
+  color: #1DA1F2;
+}
+
+.fa-vk:hover {
+  color: #2787F5;
+}
+
+.fa-google-plus:hover {
+  color: #DB4437;
+}
+
+.fa-facebook:hover {
+  color: #4267B2;
+}
+
 .footer__copyright {
   font-size: 12px;
   color: #445161;
