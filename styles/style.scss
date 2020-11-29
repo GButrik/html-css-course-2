@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  }
+
+.fullscreen-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  z-index: -100;
+  overflow: hidden;
+}
+
+.fullscreen-bg video {
+  min-height: 700px;
+  min-width: 100%;
+  width: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+@import "header";
+@import "main";
+@import "footer";
